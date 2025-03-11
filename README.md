@@ -20,37 +20,49 @@ Ever wondered which team has the edge in an IPL match? With our IPL Victory Prob
 🔹 Run the App:
 
 bash
-Copy
-Edit
+
 streamlit run app.py
+
+
 🔹 Enter Match Details: Fill in the form with live match data.
 🔹 Predict: Click the button and watch the magic happen! ✨
 
 🛠️ Installation Guide
+
+
+
 🔹 Clone the Repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/saicharanega/IPL-Victory-Probability-Estimator.git
-🔹 Install Dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
+
+🔹 Install Dependencies:
+  
+  pip install -r requirements.txt
+
+
+  
 📂 Project Files
+
 📌 app.py – Main application logic.
+
 📌 model.pkl – Pre-trained machine learning model.
+
 📌 team.pkl, city.pkl – Data files for teams and cities.
 
+
 📜 Open-Source & Free!
+
 This project is licensed under the MIT License – feel free to use, modify, and share!
 
 💡 Why Use This?
+
+
 🏏 Whether you’re a cricket enthusiast, data science lover, or just curious, this app brings the thrill of IPL predictions right to your screen!
 
 Predict like a pro and stay ahead of the game! 🏆✨
+
 👨‍💻 Built with ❤️ by Saicharan Ega.
+
 🚀 Try it now and see who’s likely to win! 🎉
 
